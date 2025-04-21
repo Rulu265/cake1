@@ -1,3 +1,8 @@
+
+---
+
+#### 2. `index.html` の内容
+```html
 <!DOCTYPE html>
 <html lang="ja">
 <head>
