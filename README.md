@@ -1,5 +1,5 @@
 # cake1
-cake introduce
+大阪のケーキ屋さん紹介サイト
 <!DOCTYPE html>
 <html lang="ja">
 <head>
@@ -18,3 +18,5 @@ cake introduce
     <p><strong>ホームページ：</strong><a href="https://patisserie-gokan.co.jp" target="_blank">patisserie-gokan.co.jp</a></p>
     <p><strong>おすすめコメント：</strong>上品な舌触りで丁寧に作られていて、どれを選んでも文句なし。</p>
   </div>
+</body>
+</html>
